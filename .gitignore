@@ -349,6 +349,7 @@ MigrationBackup/
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
 deploy/bicep/param_local.json
+jason/
 functions/.funcignore
 bin
 obj
